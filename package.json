@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conuko/Advent-of-Code"
+  },
+  "author": "Constantin Unterkofler",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "prettier": "^2.7.1"
+  }
+}

@@ -39,10 +39,9 @@ const sumOfPriorities = (array) => {
 };
 
 const answer = sumOfPriorities(input);
-console.log(answer);
 
 /* end solution */
 
-/* const execEnd = performance.now();
+const execEnd = performance.now();
 const micros = (execEnd - execStart) * 1000;
-console.log(`${answer} (${micros.toFixed(2)} µs)`); */
+console.log(`${answer} (${micros.toFixed(2)} µs)`);
